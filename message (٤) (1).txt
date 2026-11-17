@@ -162,8 +162,8 @@ function Layout.create()
 				{key = "Sounds", label = "Sounds", Columns = 1},
 				{key = "SoundCloud", label = "SoundCloud", Columns = 1},
 			}},
-			{name = "Chat", icon = "messages-square", group = "Fun", desc = "Talk with other Pulse users", badge = "0"},
-			{name = "Pulse Users", icon = "users", group = "Fun", desc = "Join servers with other Pulse users"},
+			{name = "Chat", icon = "messages-square", group = "Fun", desc = "Talk with other MONSTER users", badge = "0"},
+			{name = "MONSTER USERS Users", icon = "users", group = "Fun", desc = "Join servers with other MONSTER users"},
 			{name = "Mobile", icon = "smartphone", group = "System", desc = "On-screen buttons for touch"},
 			{name = "Config Hub", icon = "library", group = "System", desc = "Browse and share configs"},
 			{name = "Settings", icon = "settings", group = "System", desc = "Menu, configs and performance", subs = {
