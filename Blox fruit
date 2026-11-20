@@ -2279,14 +2279,14 @@ end
 local lib = loadstring(game:HttpGet("https://pastefy.app/9vgkDsd2/raw"))()
 lib:SetDefaultTheme("Crimson")
 local v237 = lib:CreateWindow({
-	Title = "Nazk Hub",
+	Title = "Ali dev monster",
 	Subtitle = "Blox Fruits",
 	DefaultTheme = "Crimson",
-	Icon = "rbxassetid://139759348685642",
+	Icon = "rbxassetid://100766466010539",
 	Keybind = "RightControl",
 	ConfigurationSaving = {
 		Enabled = true,
-		FolderName = "NazkHub",
+		FolderName = "Ali dev monster",
 		FileName = "BloxFruits"
 	}
 })
@@ -31807,8 +31807,8 @@ end
 })
 
 lib:Notify({
-	Title = "Nazk Hub",
-	Description = "Nazk Hub comeback",
-	Icon = "rbxassetid://139759348685642",
+	Title = "Ali dev monster ",
+	Description = "Ali dev monster",
+	Icon = "rbxassetid://100766466010539",
 	Duration = 5
 })
